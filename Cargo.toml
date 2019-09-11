@@ -3,4 +3,4 @@ name = "sled-debug"
 version = "0.0.1"
 
 [dependencies]
-sled = "*"
+sled = "0.27.0"
